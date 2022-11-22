@@ -3,10 +3,8 @@
 ### 1. Fork and clone this repository
 
 1. Fork this repository by clicking "Fork" on this page:
-![forking](https://image.ibb.co/jHRieT/forking.png)
 
 2. Copy this repository's URL by clicking the green clone button:
-![copying url](https://image.ibb.co/n2wYeT/copying_clone.png)
 
 3. Open your terminal, and clone the repo to your computer( replace with the link from step 2):
 
