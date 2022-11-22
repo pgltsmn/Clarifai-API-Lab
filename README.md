@@ -2,10 +2,8 @@
 ## Lab 1: Basics
 ### 1. Fork and clone this repository
 
-1. Fork this repository by clicking "Fork" on this page:
-
-2. Copy this repository's URL by clicking the green clone button:
-
+1. Fork this repository by clicking "Fork" on this page.
+2. Copy this repository's URL by clicking the green clone button.
 3. Open your terminal, and clone the repo to your computer( replace with the link from step 2):
 
 
