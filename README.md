@@ -20,8 +20,6 @@ To complete this lab, it's very important that you understand the example that w
 ### 3. The lab
 In this lab, we will build a small app where people can submit a URL of an image, and using the Clarifai API, we will return what the image is about and return the results to the user.
 
-This is pretty much the same functionality as clicking "Try your own Image.." button on this page https://clarifai.com/demo
-
 * Look at the app.py and home.html. Run the `app.py` server (`python app.py`), go to your browser familiarize yourself with what is already provided for you.
 * In app.py you'll need to code below where it says `YOUR CODE HERE!`
 * You'll need an API key to authenticate with the Clarifai API, you can obtain it through creating a free account on https://www.clarifai.com/pricing, scrolling down and clicking on "Obtain a free api key" button, and creating an application. (Once the application is created, an API key will be generated automatically) 
