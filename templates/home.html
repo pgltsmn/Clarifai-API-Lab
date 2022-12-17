@@ -7,6 +7,9 @@
             <input type="submit">
         </form>
 
-        {{results}}
+        <h2>top 10 words:</h2>
+        {%for result in results%}
+        <h3>{{result}}</h3>
+        {%endfor%}
     </body>
 </html>
